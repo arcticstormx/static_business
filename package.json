@@ -1,0 +1,15 @@
+{
+  "name": "static_business",
+  "version": "1.0.0",
+  "description": "",
+  "main": "source/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-ttf2woff": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim K",
+  "license": "ISC"
+}
